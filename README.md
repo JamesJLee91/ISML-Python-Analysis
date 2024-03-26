@@ -1,4 +1,4 @@
-**Direct Impact Pressure Hopkinson Bar Experiment Analysis Codes**
+# Direct Impact Pressure Hopkinson Bar Experiment Analysis Codes
 
 1. The primary purpose of this repository is for back-up and easy access of the analysis codes. 
 2. These can be used for any Rolls-Royce projects involving the use of DIHPB. 
