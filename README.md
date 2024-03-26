@@ -4,5 +4,6 @@
 2. These can be used for any Rolls-Royce projects involving the use of DIHPB. 
 3. The codes are dependant on the master excel sheet which is stored in individual machines (for security reasons). 
 4. It is advisable to create a separate master sheet for different project.
-5. For guidance please contact: james.lee@eng.ox.ac.uk
+5. All of the scripts should auotomatically run once the test identifier is set - 'Run All Cells'.
+6. For guidance please contact: james.lee@eng.ox.ac.uk
 
